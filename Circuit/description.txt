@@ -1,0 +1,3 @@
+components used:
+1. Arduino
+2. Joystick
